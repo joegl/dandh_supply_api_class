@@ -1,6 +1,6 @@
 # dandh_supply_api_class
 
-A PHP class I created for making interactions with the D&H Supply API: https://www.dandh.com/
+A PHP class for making interactions with the D&H Supply API: https://www.dandh.com/
 
 This API class can send an order and its products to D&H for fulfillment and check on the status of fulfillment for an order.
 
